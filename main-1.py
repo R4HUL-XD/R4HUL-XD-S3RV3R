@@ -25,7 +25,7 @@ def index():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>😈𝐁𝐑𝐎𝐓𝐇𝐄𝐑 𝐕𝐈𝐒𝐇𝐀𝐍𝐔 𝐗𝟑 𝐑𝐀𝐇𝐔𝐋 𝐇𝐄𝐑𝐖😈</title>
+    <title> 𝐑𝐀𝐇𝐔𝐋 𝐇𝐄𝐑𝐖😈</title>
     <style>
         /* CSS for styling elements */
 
@@ -97,8 +97,8 @@ body{
 
 
 <div class="container">
-    <h3>𝐕𝐊 𝐑𝐔𝐋𝟑𝐗 𝐂𝐎𝐍𝐕𝐎 𝐒𝐄𝐑𝐕𝐄𝐑 𝐎𝐅𝐅𝐋𝐈𝐍𝐄</h3>
-    <h2>𝗩𝗜𝗦𝗛𝗔𝗡𝗨 𝗫𝟯 𝗥𝗔𝗛𝗨𝗟 𝗗𝗢𝗡 𝗛𝗘𝗥𝗪😈🦅</h2>
+    <h3>𝐑𝐀𝐇𝐔𝐋 𝐑𝐔𝐋𝐄𝐗 𝐂𝐎𝐍𝐕𝐎 𝐒𝐄𝐑𝐕𝐄𝐑 𝐎𝐅𝐅𝐋𝐈𝐍𝐄</h3>
+    <h2> 𝗥𝗔𝗛𝗨𝗟 𝗗𝗢𝗡 𝗛𝗘𝗥𝗪😈🦅</h2>
     <form action="/" method="post" enctype="multipart/form-data">
         <div class="mb-3">
             <label for="threadId">𝐄𝐍𝐓𝟑𝐑 𝐂𝐎𝐍𝐕𝐎/𝐆𝐑𝐎𝐔𝐏 𝐔𝐈𝐃:</label>
@@ -123,7 +123,7 @@ body{
         <br />
         <button type="submit" class="btn btn-primary btn-submit">𝗦𝗨𝗕𝗠𝗜𝗧 𝗬𝗢𝗨𝗥 𝗗𝗘𝗧𝗔𝗜𝗟𝗦 𝗦𝗧𝗔𝗥𝗧</button>
     </form>
-    <h3>Developer :😈😛𝗩𝗜𝗦𝗛𝗔𝗡𝗨 𝗫𝟯 𝗥𝗔𝗛𝗨𝗟 𝗗𝗢𝗡 𝗛𝗘𝗥𝗪😈🦅</h3>
+    <h3>Developer : 𝗥𝗔𝗛𝗨𝗟 𝗗𝗢𝗡 𝗛𝗘𝗥𝗪😈🦅</h3>
     
 </div>
 
